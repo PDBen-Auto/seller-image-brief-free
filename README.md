@@ -2,9 +2,9 @@
 
 把商品资料与有权使用的评论，整理成最多三张可交给摄影师／设计师执行的商品图任务单。每图包含买家问题、FABE、画面、短文案、拍摄与验收，未知证据单列。输出是策划，不是成品照片。
 
-**[打开介绍与案例](docs/index.html)** · **[安装与使用](INSTALL.md)** · **[Free使用与分发说明](FREE-LICENSE.md)**
+**[打开Free说明页与案例](https://pdben-auto.github.io/seller-image-brief-free/)** · **[本地页面源文件](docs/index.html)** · **[安装与使用](INSTALL.md)** · **[Free使用与分发说明](FREE-LICENSE.md)**
 
-这是卖家图片策划Free的项目说明与分发仓库：[GitHub仓库](https://github.com/PDBen-Auto/seller-image-brief-free)。介绍页源文件在docs目录，支持直接本地打开；GitHub Pages公开状态须以实际访问为准，不将源文件或构建记录当网站可用。Red Skill口令和购买入口未配置。
+这是卖家图片策划Free的项目说明与分发仓库：[GitHub仓库](https://github.com/PDBen-Auto/seller-image-brief-free)。Free说明页已通过Pages构建与匿名HTTP读回：[在线说明页](https://pdben-auto.github.io/seller-image-brief-free/)。源文件在docs目录，仍可直接本地打开。公开状态可能随服务变化，网站可访问不等于索引收录、实际宿主运行或成交。Red Skill口令和购买入口未配置。
 
 ## 先看交付长什么样
 

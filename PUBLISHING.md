@@ -1,6 +1,6 @@
 # Free仓库与静态说明页
 
-仓库地址：[PDBen-Auto/seller-image-brief-free](https://github.com/PDBen-Auto/seller-image-brief-free)。这是Free项目文档、合成案例和两文件安装下载，不是电商交易站或商业SaaS；不收集密码、信用卡、支付信息或用户商品资料。Pro只保留次级条件说明，没有购买或支付入口。
+仓库地址：[PDBen-Auto/seller-image-brief-free](https://github.com/PDBen-Auto/seller-image-brief-free)。Free说明页：[https://pdben-auto.github.io/seller-image-brief-free/](https://pdben-auto.github.io/seller-image-brief-free/)，已分别核验Pages构建和匿名HTTP可用。这里是Free项目文档、合成案例和两文件安装下载，不是电商交易站或商业SaaS；不收集密码、信用卡、支付信息或用户商品资料。Pro只保留次级条件说明，没有购买或支付入口。
 
 ## 目录与配置
 
