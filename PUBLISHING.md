@@ -4,7 +4,7 @@
 
 ## 目录与配置
 
-仓库严格保留27文件白名单：README、安装／许可、公开说明、Free两运行文件及docs必需资产。没有Pro源码、过程结果、凭据、内部台账或工作流文件。manifest列25份payload文件，另两份为manifest与其SHA侧车；两份Free及站点镜像原字节不变。
+仓库严格保留28文件白名单：README、安装／许可、公开说明、Free两运行文件及docs必需资产。没有Pro源码、过程结果、凭据、内部台账或工作流文件。manifest列26份payload文件，另两份为manifest与其SHA侧车；两份Free及站点镜像原字节不变。
 
 GitHub Pages使用main分支的/docs作为发布源，docs/index.html为入口；所需图片、说明、案例、site-config.js和downloads都在docs目录内，不依赖同级skills，不需Node构建或自建服务器。docs/.nojekyll保留。实际构建与匿名HTTP状态必须分别读回；配置来源不等于部署成功，部署不保证索引收录或托管方批准。
 
@@ -18,6 +18,10 @@ docs/site-config.js仅启用已核实仓库与Issues链接。freePlatformUrl、f
 
 ## 复验与维护
 
-按最终commit匿名读回27文件，复算SHA，并验证Pages真实URL、docs资产和两文件下载。仓库公开、Pages构建、匿名页面访问、下载、宿主识别、首次实际运行分别记录；访问和下载不算成交。没有用户／收入／转化统计，不加遥测。
+按最终commit匿名读回28文件，复算SHA，并验证Pages真实URL、docs资产和两文件下载。仓库公开、Pages构建、匿名页面访问、下载、宿主识别、首次实际运行分别记录；访问和下载不算成交。没有用户／收入／转化统计，不加遥测。
 
 若搬移本地文件，保留整个目录；若仅托管docs，则完整保留docs。使用许可不变，不因公开而变成MIT等开源许可。公开说明不证明第三方权利链、平台准入、实际买家兼容或Pro收款／交付／退款能力。
+
+## 发现性维护
+
+仓库About、相关topics与README中英文摘要说明实际用途，不声明开源许可、用户量或销售效果。站点保留现有标题、description、正文与样式，增加canonical、合成教学身份清楚的分享元数据和仅含首页的sitemap.xml；不增加统计脚本或交易入口。项目URL不是域名根目录，因此不在项目子路径添加无效的robots.txt；未操作域名根站点或搜索引擎账号。元数据已部署不等于搜索收录、分享平台缓存更新或获得访问。

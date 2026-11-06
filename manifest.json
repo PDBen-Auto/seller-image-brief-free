@@ -1,6 +1,6 @@
 {
   "package": "seller-image-brief-free",
-  "candidate": "public-repository-v14",
+  "candidate": "public-repository-v16",
   "stage": "publication",
   "websiteEntry": "docs/index.html",
   "freeRuntimeFiles": [
@@ -94,13 +94,18 @@
     },
     {
       "path": "docs/index.html",
-      "sha256": "070ead277af37db235127dab565a3e3d06e31f10ef7a95c922e5f4a0d7e446ac",
-      "bytes": 37990
+      "sha256": "e7ab1bc1dc032b3bd139781d1420218581895ff23c854cb4a8f8202c23cf6a00",
+      "bytes": 39749
     },
     {
       "path": "docs/site-config.js",
       "sha256": "4261c4d4a00139d5849a2f65e8b5423485803d539bbed694f3b6b3b5526a1601",
       "bytes": 356
+    },
+    {
+      "path": "docs/sitemap.xml",
+      "sha256": "d646c26168a179d0a06dde00c2b65f505fc5070df04259f88d90e5c630bfdb26",
+      "bytes": 188
     },
     {
       "path": "docs/terms.md",
@@ -119,13 +124,13 @@
     },
     {
       "path": "PUBLISHING.md",
-      "sha256": "fd40264f23bcbb3153bda5b7274ffcbf5b909264db9868ad125eb9f2bcdc76b2",
-      "bytes": 2900
+      "sha256": "dea33cae30de63d55742b8320ff3eec3f2e53fc9a1fef700e2261f39064c48ac",
+      "bytes": 3454
     },
     {
       "path": "README.md",
-      "sha256": "f4902965059f97a3e3a27949cc4010c4836a1b5322d9e7e692285e44506049e6",
-      "bytes": 4882
+      "sha256": "2d94c2fdf0befa2be08797354d46c267cc8990307b133b9071e8a670184790d6",
+      "bytes": 5482
     },
     {
       "path": "skills/seller-image-brief-free/references/upgrade.md",

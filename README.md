@@ -6,6 +6,12 @@
 
 这是卖家图片策划Free的项目说明与分发仓库：[GitHub仓库](https://github.com/PDBen-Auto/seller-image-brief-free)。Free说明页已通过Pages构建与匿名HTTP读回：[在线说明页](https://pdben-auto.github.io/seller-image-brief-free/)。源文件在docs目录，仍可直接本地打开。公开状态可能随服务变化，网站可访问不等于索引收录、实际宿主运行或成交。Red Skill口令和购买入口未配置。
 
+## 适用任务 / English summary
+
+用于电商商品图策划、FABE卖点梳理、产品拍摄brief与摄影／设计交接；汽车改装件与饰品是当前合成教学案例。
+
+Seller Image Brief Free is an Agent Skill for e-commerce product-image planning. It turns supplied product facts and permitted reviews into up to three complete briefs with FABE reasoning, copy, composition, shooting requirements, acceptance checks, and evidence gaps. Bring your own Agent and model; model costs are yours. It creates plans, not product photos. Free under custom terms, not an open-source license.
+
 ## 先看交付长什么样
 
 - 主案例：[尾门折叠桌输入](docs/examples/automotive-input.md) → [三张完整策划输出](docs/examples/automotive-output.md)。汽车三图是单独生成的AI概念，非实拍、非安装或适配证明；不是Free自动生图或汽车实际Agent运行证据。
