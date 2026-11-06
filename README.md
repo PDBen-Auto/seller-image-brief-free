@@ -18,6 +18,8 @@ Seller Image Brief Free is an Agent Skill for e-commerce product-image planning.
 - 次级案例：[饰品任务与证据边界](docs/examples/jewelry.md)。五张图卡的模拟规格只属于教学案例，不是真实SKU或客户效果。
 - 页面可以按图查看FABE、布局、动作与验收，并取得完整两文件。没有评论时不会编占比，没有实测时不写性能。
 
+- 新增[GitHub原生阅读：完整方法文章与三张过程图](docs/examples/method-article.md)：复用2026年11月6日作者本机手动加载的合成自测，讲解取物、收起和闭合证据三项问题。过程图为原策划删减改写，非完整任务单、实物测试或独立用户案例。
+
 ## Free与Pro的真实差异
 
 |项目|Free|Pro（本仓库不提供源码）|

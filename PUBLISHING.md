@@ -4,7 +4,7 @@
 
 ## 目录与配置
 
-仓库严格保留29文件白名单：README、安装／许可、公开说明、Free两运行文件及docs必需资产。没有Pro源码、过程结果、凭据、内部台账或工作流文件。manifest列27份payload文件，另两份为manifest与其SHA侧车；两份Free及站点镜像原字节不变。 安装便利包docs/downloads/seller-image-brief-free-install.zip只含原字节的两份运行文件和FREE-LICENSE.md；不含Pro或安装脚本。
+仓库严格保留33文件白名单：README、安装／许可、公开说明、Free两运行文件及docs必需资产。没有Pro源码、过程结果、凭据、内部台账或工作流文件。manifest列31份payload文件，另两份为manifest与其SHA侧车；两份Free及站点镜像原字节不变。 安装便利包docs/downloads/seller-image-brief-free-install.zip只含原字节的两份运行文件和FREE-LICENSE.md；不含Pro或安装脚本。
 
 GitHub Pages使用main分支的/docs作为发布源，docs/index.html为入口；所需图片、说明、案例、site-config.js和downloads都在docs目录内，不依赖同级skills，不需Node构建或自建服务器。docs/.nojekyll保留。实际构建与匿名HTTP状态必须分别读回；配置来源不等于部署成功，部署不保证索引收录或托管方批准。
 
@@ -18,10 +18,10 @@ docs/site-config.js仅启用已核实仓库与Issues链接。freePlatformUrl、f
 
 ## 复验与维护
 
-本轮安装入口修订只允许五个路径：docs/index.html、docs/downloads/seller-image-brief-free-install.zip、manifest.json、manifest.sha256、PUBLISHING.md；其他公开文件逐字节保持不变。先更新本说明，再按实际29文件重算27份payload清单及manifest侧车；页面和安装ZIP保持已审字节。
+本次GitHub原生方法文章接入范围：只新增docs/examples/method-article.md及docs/examples/assets/01-process.jpg、02-process.jpg、03-process.jpg；只修改README.md、PUBLISHING.md、manifest.json、manifest.sha256。docs/index.html、原安装ZIP和其他文件保持原字节，不包含case.html。先更新本说明，再按实际33文件重算31份payload及manifest侧车。文章及三张过程图已完成来源核对。发布须经过独立审核与授权，静态检查不代替发布批准；实际公开状态以固定commit及其匿名读回记录为准。
 
 
-按最终commit匿名读回29文件，复算SHA，并验证Pages真实URL、docs资产、两文件下载和安装ZIP解压后的三条目。仓库公开、Pages构建、匿名页面访问、下载、宿主识别、首次实际运行分别记录；访问和下载不算成交。没有用户／收入／转化统计，不加遥测。
+发布流程要求：独立审核通过并取得发布授权后，按固定commit匿名读回33文件，复算SHA，核对GitHub原生文章、三张过程图和相对引用。原首页、两文件与安装ZIP维持既有已验字节，不因本文新增而重新测试或下载；后续若有具体变化或故障再定向核验。仓库公开、Pages构建、匿名页面访问、下载、宿主识别、首次实际运行分别记录；访问和下载不算成交。没有用户／收入／转化统计，不加遥测。
 
 若搬移本地文件，保留整个目录；若仅托管docs，则完整保留docs。使用许可不变，不因公开而变成MIT等开源许可。公开说明不证明第三方权利链、平台准入、实际买家兼容或Pro收款／交付／退款能力。
 

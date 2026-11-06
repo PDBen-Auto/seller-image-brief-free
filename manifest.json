@@ -1,7 +1,7 @@
 {
   "package": "seller-image-brief-free",
-  "candidate": "public-install-entry-v20",
-  "stage": "publication",
+  "candidate": "native-markdown-method-article-20261106",
+  "stage": "publication-process",
   "websiteEntry": "docs/index.html",
   "freeRuntimeFiles": [
     "skills/seller-image-brief-free/SKILL.md",
@@ -24,13 +24,13 @@
     },
     {
       "path": "PUBLISHING.md",
-      "sha256": "4ab1d6ad09798ebb7f9b06a1f45dacb263a06ace940dee77018f38f5a218a8e0",
-      "bytes": 3975
+      "sha256": "396c59fa255e1c0a89416328391c34caa17552af6e005ea1bf7dd60c5d8cff4e",
+      "bytes": 4415
     },
     {
       "path": "README.md",
-      "sha256": "2d94c2fdf0befa2be08797354d46c267cc8990307b133b9071e8a670184790d6",
-      "bytes": 5482
+      "sha256": "ee32bc6f4449af5bc98960944beed8786c448d2942312d113bb78ee63b54cd8c",
+      "bytes": 5795
     },
     {
       "path": "docs/.nojekyll",
@@ -98,6 +98,21 @@
       "bytes": 615
     },
     {
+      "path": "docs/examples/assets/01-process.jpg",
+      "sha256": "d3315c75b6a272c5fdae76ff22f22de68143a3fd85f2e1835e36cac43fccd4f3",
+      "bytes": 88939
+    },
+    {
+      "path": "docs/examples/assets/02-process.jpg",
+      "sha256": "a71fea30325456d78aa0f94505486477a1f4f1302740530caf796eb14ba62b3c",
+      "bytes": 89574
+    },
+    {
+      "path": "docs/examples/assets/03-process.jpg",
+      "sha256": "63e71cdb94a5f50769dde97623457f7c3b837706251f3e8c8ce306e576b48b19",
+      "bytes": 94943
+    },
+    {
       "path": "docs/examples/automotive-input.md",
       "sha256": "ab7f69866e6cfdbeececacd79d4020b10a384d5618c8b39b1b986b434f9c4e98",
       "bytes": 1267
@@ -111,6 +126,11 @@
       "path": "docs/examples/jewelry.md",
       "sha256": "bcc958477dda77a116cbcad54dbeae4a1e3d350f697e2b0d0fe4f9cd86a8820c",
       "bytes": 1372
+    },
+    {
+      "path": "docs/examples/method-article.md",
+      "sha256": "5fbbf633752dd73fa6136511f0ca10d6c5c8d8af3d5146dc82e877d1609067f7",
+      "bytes": 10320
     },
     {
       "path": "docs/free-license.md",
@@ -149,5 +169,5 @@
     }
   ],
   "hashPolicy": "This manifest enumerates all public payload files. manifest.json and manifest.sha256 are the only excluded controls; sidecar hashes manifest.json.",
-  "publication": "Authorized public Free repository release; no purchase/payment endpoint. Live deployment/build and anonymous availability are verified separately from this payload manifest."
+  "publication": "GitHub-native method-article and three process JPGs; source provenance verified. Publication requires independent review and authorization. Actual public state must be established by a fixed commit and anonymous byte readback. No payment endpoint."
 }
