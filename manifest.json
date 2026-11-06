@@ -1,6 +1,6 @@
 {
   "package": "seller-image-brief-free",
-  "candidate": "public-repository-v16",
+  "candidate": "public-install-entry-v20",
   "stage": "publication",
   "websiteEntry": "docs/index.html",
   "freeRuntimeFiles": [
@@ -12,6 +12,26 @@
     "docs/downloads/seller-image-brief-free/references/upgrade.md"
   ],
   "files": [
+    {
+      "path": "FREE-LICENSE.md",
+      "sha256": "1c90ce7750c27741550a21741977d2abbce4a907055bbb28885203bb23c7b617",
+      "bytes": 2360
+    },
+    {
+      "path": "INSTALL.md",
+      "sha256": "1ab1601067d3e7d1053451714d602fa8c97df0a1c13bc0b5232b710ade2f76ea",
+      "bytes": 4958
+    },
+    {
+      "path": "PUBLISHING.md",
+      "sha256": "4ab1d6ad09798ebb7f9b06a1f45dacb263a06ace940dee77018f38f5a218a8e0",
+      "bytes": 3975
+    },
+    {
+      "path": "README.md",
+      "sha256": "2d94c2fdf0befa2be08797354d46c267cc8990307b133b9071e8a670184790d6",
+      "bytes": 5482
+    },
     {
       "path": "docs/.nojekyll",
       "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
@@ -63,14 +83,19 @@
       "bytes": 120093
     },
     {
-      "path": "docs/downloads/seller-image-brief-free/references/upgrade.md",
-      "sha256": "296b2283f04dfe90fb09c9b56c7e4f629430a9e723671454d875c67d2970ab43",
-      "bytes": 615
+      "path": "docs/downloads/seller-image-brief-free-install.zip",
+      "sha256": "757cf96df627aa834394b3ffe2ebb7a8dc963673951c709b9afacf18b7da4cb2",
+      "bytes": 5054
     },
     {
       "path": "docs/downloads/seller-image-brief-free/SKILL.md",
       "sha256": "53b6b67b001262680efade6f5b1398b812157423d25816fa0ecd28871449f7fc",
       "bytes": 4778
+    },
+    {
+      "path": "docs/downloads/seller-image-brief-free/references/upgrade.md",
+      "sha256": "296b2283f04dfe90fb09c9b56c7e4f629430a9e723671454d875c67d2970ab43",
+      "bytes": 615
     },
     {
       "path": "docs/examples/automotive-input.md",
@@ -94,8 +119,8 @@
     },
     {
       "path": "docs/index.html",
-      "sha256": "e7ab1bc1dc032b3bd139781d1420218581895ff23c854cb4a8f8202c23cf6a00",
-      "bytes": 39749
+      "sha256": "9a3ca224327e5e451c3e769e93551baee203e73ccfbeedbff867ae23e013fdcb",
+      "bytes": 40229
     },
     {
       "path": "docs/site-config.js",
@@ -113,34 +138,14 @@
       "bytes": 2399
     },
     {
-      "path": "FREE-LICENSE.md",
-      "sha256": "1c90ce7750c27741550a21741977d2abbce4a907055bbb28885203bb23c7b617",
-      "bytes": 2360
-    },
-    {
-      "path": "INSTALL.md",
-      "sha256": "1ab1601067d3e7d1053451714d602fa8c97df0a1c13bc0b5232b710ade2f76ea",
-      "bytes": 4958
-    },
-    {
-      "path": "PUBLISHING.md",
-      "sha256": "dea33cae30de63d55742b8320ff3eec3f2e53fc9a1fef700e2261f39064c48ac",
-      "bytes": 3454
-    },
-    {
-      "path": "README.md",
-      "sha256": "2d94c2fdf0befa2be08797354d46c267cc8990307b133b9071e8a670184790d6",
-      "bytes": 5482
+      "path": "skills/seller-image-brief-free/SKILL.md",
+      "sha256": "53b6b67b001262680efade6f5b1398b812157423d25816fa0ecd28871449f7fc",
+      "bytes": 4778
     },
     {
       "path": "skills/seller-image-brief-free/references/upgrade.md",
       "sha256": "296b2283f04dfe90fb09c9b56c7e4f629430a9e723671454d875c67d2970ab43",
       "bytes": 615
-    },
-    {
-      "path": "skills/seller-image-brief-free/SKILL.md",
-      "sha256": "53b6b67b001262680efade6f5b1398b812157423d25816fa0ecd28871449f7fc",
-      "bytes": 4778
     }
   ],
   "hashPolicy": "This manifest enumerates all public payload files. manifest.json and manifest.sha256 are the only excluded controls; sidecar hashes manifest.json.",
