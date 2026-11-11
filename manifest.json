@@ -1,6 +1,6 @@
 {
   "package": "seller-image-brief-free",
-  "candidate": "native-markdown-method-article-20261106",
+  "candidate": "first-use-entry-20261111",
   "stage": "publication-process",
   "websiteEntry": "docs/index.html",
   "freeRuntimeFiles": [
@@ -24,8 +24,8 @@
     },
     {
       "path": "PUBLISHING.md",
-      "sha256": "396c59fa255e1c0a89416328391c34caa17552af6e005ea1bf7dd60c5d8cff4e",
-      "bytes": 4415
+      "sha256": "11ddde81d82d8f2dc9749ee4e423bb6570674d2aecfc8c608bf9e18855dfd694",
+      "bytes": 4544
     },
     {
       "path": "README.md",
@@ -133,14 +133,29 @@
       "bytes": 10320
     },
     {
+      "path": "docs/first-use/first-task-input.txt",
+      "sha256": "7c9819e24cba535efaf78b2f6e4ed9f38df20a4ca24394a14a5bcdd4fb0fe5be",
+      "bytes": 1058
+    },
+    {
+      "path": "docs/first-use/first-task.pdf",
+      "sha256": "b74c99d94cc2fbe2971fabd25a90ad6c82e8ca237bdf13ad0d32e2c615d2a70f",
+      "bytes": 162244
+    },
+    {
+      "path": "docs/first-use/index.html",
+      "sha256": "a3bb319ceeec832a118824aef407076597bfec39b18197afeaf5d9715262c8fd",
+      "bytes": 4920
+    },
+    {
       "path": "docs/free-license.md",
       "sha256": "1c90ce7750c27741550a21741977d2abbce4a907055bbb28885203bb23c7b617",
       "bytes": 2360
     },
     {
       "path": "docs/index.html",
-      "sha256": "9a3ca224327e5e451c3e769e93551baee203e73ccfbeedbff867ae23e013fdcb",
-      "bytes": 40229
+      "sha256": "1c25cad7d96d1332340ae7a58b375a25038d80a5efff06234fe83e2e3e646a79",
+      "bytes": 41298
     },
     {
       "path": "docs/site-config.js",
@@ -169,5 +184,5 @@
     }
   ],
   "hashPolicy": "This manifest enumerates all public payload files. manifest.json and manifest.sha256 are the only excluded controls; sidecar hashes manifest.json.",
-  "publication": "GitHub-native method-article and three process JPGs; source provenance verified. Publication requires independent review and authorization. Actual public state must be established by a fixed commit and anonymous byte readback. No payment endpoint."
+  "publication": "First-use guide HTML/PDF and complete practice input linked from the existing installation section. Original reviewed resources retain exact bytes. Publication requires independent review and authorization; fixed-commit and Pages readback establish actual public availability. Downloads do not execute tasks. No form, payment or telemetry endpoint."
 }

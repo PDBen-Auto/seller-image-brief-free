@@ -4,7 +4,7 @@
 
 ## 目录与配置
 
-仓库严格保留33文件白名单：README、安装／许可、公开说明、Free两运行文件及docs必需资产。没有Pro源码、过程结果、凭据、内部台账或工作流文件。manifest列31份payload文件，另两份为manifest与其SHA侧车；两份Free及站点镜像原字节不变。 安装便利包docs/downloads/seller-image-brief-free-install.zip只含原字节的两份运行文件和FREE-LICENSE.md；不含Pro或安装脚本。
+仓库严格保留36文件白名单：README、安装／许可、公开说明、Free两运行文件及docs必需资产。没有Pro源码、过程结果、凭据、内部台账或工作流文件。manifest列34份payload文件，另两份为manifest与其SHA侧车；两份Free及站点镜像原字节不变。 安装便利包docs/downloads/seller-image-brief-free-install.zip只含原字节的两份运行文件和FREE-LICENSE.md；不含Pro或安装脚本。
 
 GitHub Pages使用main分支的/docs作为发布源，docs/index.html为入口；所需图片、说明、案例、site-config.js和downloads都在docs目录内，不依赖同级skills，不需Node构建或自建服务器。docs/.nojekyll保留。实际构建与匿名HTTP状态必须分别读回；配置来源不等于部署成功，部署不保证索引收录或托管方批准。
 
@@ -18,10 +18,9 @@ docs/site-config.js仅启用已核实仓库与Issues链接。freePlatformUrl、f
 
 ## 复验与维护
 
-本次GitHub原生方法文章接入范围：只新增docs/examples/method-article.md及docs/examples/assets/01-process.jpg、02-process.jpg、03-process.jpg；只修改README.md、PUBLISHING.md、manifest.json、manifest.sha256。docs/index.html、原安装ZIP和其他文件保持原字节，不包含case.html。先更新本说明，再按实际33文件重算31份payload及manifest侧车。文章及三张过程图已完成来源核对。发布须经过独立审核与授权，静态检查不代替发布批准；实际公开状态以固定commit及其匿名读回记录为准。
+本次首次使用接入范围：新增docs/first-use/index.html、docs/first-use/first-task.pdf和docs/first-use/first-task-input.txt，分别保留已核指南HTML、PDF与完整练习输入原字节；在docs/index.html安装区增加三个相对链接。只同步更新本说明与manifest及其SHA侧车，按实际36文件重算34份payload。Free运行文件、镜像、安装ZIP、许可、配置、旧案例与Pro价格／支持条件及购买关闭状态保持原字节，不公开Pro运行文件，不增加表单、支付或遥测。
 
-
-发布流程要求：独立审核通过并取得发布授权后，按固定commit匿名读回33文件，复算SHA，核对GitHub原生文章、三张过程图和相对引用。原首页、两文件与安装ZIP维持既有已验字节，不因本文新增而重新测试或下载；后续若有具体变化或故障再定向核验。仓库公开、Pages构建、匿名页面访问、下载、宿主识别、首次实际运行分别记录；访问和下载不算成交。没有用户／收入／转化统计，不加遥测。
+发布须经过独立审核与授权；实际公开状态以固定commit及匿名读回记录为准。发布后应核对首页、三份首次任务资源、manifest及侧车的字节与SHA，核对Pages正常路径、三个入口及复制按钮和手机显示。未变文件核对Git blob等同性，无具体变更或故障时不重下ZIP、不重跑模型。指南为下载和使用说明，不在线执行任务；用户自备Agent与模型，模型费用及数据条款另核，输出是策划。Issues反馈自愿且公开可见，不能收集敏感资料。访问、下载、复制、宿主识别、实际首次任务和购买分别记录，不把作者验收访问作为潜客或首用。
 
 若搬移本地文件，保留整个目录；若仅托管docs，则完整保留docs。使用许可不变，不因公开而变成MIT等开源许可。公开说明不证明第三方权利链、平台准入、实际买家兼容或Pro收款／交付／退款能力。
 
