@@ -1,3 +1,15 @@
+<!-- skill-i18n:start -->
+[简体中文](README.zh-CN.md) | [English](README.en.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Deutsch](README.de.md) | [Français](README.fr.md) | [Español](README.es.md) | [Português](README.pt.md)
+
+### Complete specification
+
+- [Seller image brief — Free](skills/seller-image-brief-free/references/i18n/en.md) · `seller-image-brief-free`
+
+Use the user's explicitly requested output language; otherwise follow the request language. Keep commands, skill IDs, JSON keys, enum values, units and source quotations unchanged. Separate translations from originals. Never infer country, currency or jurisdiction from language. Read the relevant detailed references in the complete specification and retain all existing validation and authorization gates.
+
+This localized operating guide covers purpose, prerequisites, inputs, outputs, workflow, examples and boundaries; it is not a line-by-line translation of every reference. Detailed technical references, historical cases, script errors, example interfaces and images retain their original language. The assistant can explain them in the requested language. Structural, link and key-constraint checks are performed; native-speaker editorial review for each language is not claimed.
+<!-- skill-i18n:end -->
+
 # 卖家图片策划 Free
 
 把商品资料与有权使用的评论，整理成最多三张可交给摄影师／设计师执行的商品图任务单。每图包含买家问题、FABE、画面、短文案、拍摄与验收，未知证据单列。输出是策划，不是成品照片。

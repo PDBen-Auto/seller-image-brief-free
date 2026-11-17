@@ -35,3 +35,11 @@ description: 根据用户提供的产品信息与评论，免费制作最多三�
 ## Example and Completion
 
 收纳盒的用户资料写明“有可移动隔板”，评论称“能区分小物件”：可提“分区整理”，证据指产品资料和评论；“防水”没有测试时不可声称。完成前核对图卡职责不重复、每图的 F/A/B/E、拍摄与验收要求、缺失证据及提示设置。
+
+<!-- skill-i18n:start -->
+## Output language and localized operating guides
+
+[简体中文](references/i18n/zh-CN.md) | [English](references/i18n/en.md) | [日本語](references/i18n/ja.md) | [한국어](references/i18n/ko.md) | [Deutsch](references/i18n/de.md) | [Français](references/i18n/fr.md) | [Español](references/i18n/es.md) | [Português](references/i18n/pt.md)
+
+Use the user's explicitly requested output language; otherwise follow the language of the request. Read only the corresponding localized guide when needed. Preserve the workflow, prerequisites, authorization gates, skill IDs, commands, schema keys, enum values, units, original evidence and any language-specific canonical fields. Do not infer marketplace, currency or jurisdiction from language. Localized guides summarize the operating contract; read the relevant canonical references for exact schemas, calculations and stage-specific procedures. Example interfaces, historical evidence and script diagnostics retain their original language unless separately adapted.
+<!-- skill-i18n:end -->

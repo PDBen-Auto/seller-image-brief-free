@@ -1,0 +1,164 @@
+{
+  "schemaVersion": 1,
+  "locales": [
+    "zh-CN",
+    "en",
+    "ja",
+    "ko",
+    "de",
+    "fr",
+    "es",
+    "pt"
+  ],
+  "scope": "localized-operating-guides-and-requested-assistant-output",
+  "referenceTranslations": "partial; technical references and example UIs retain original language",
+  "nativeSpeakerReview": false,
+  "baseCommit": "3af52626d0178e4a509996dc56f03a2bf8041580",
+  "repository": "PDBen-Auto/seller-image-brief-free",
+  "skills": [
+    {
+      "name": "seller-image-brief-free",
+      "path": "docs/downloads/seller-image-brief-free/SKILL.md",
+      "directory": "docs/downloads/seller-image-brief-free",
+      "sourceSha256": "53b6b67b001262680efade6f5b1398b812157423d25816fa0ecd28871449f7fc",
+      "guides": {
+        "zh-CN": "docs/downloads/seller-image-brief-free/references/i18n/zh-CN.md",
+        "en": "docs/downloads/seller-image-brief-free/references/i18n/en.md",
+        "ja": "docs/downloads/seller-image-brief-free/references/i18n/ja.md",
+        "ko": "docs/downloads/seller-image-brief-free/references/i18n/ko.md",
+        "de": "docs/downloads/seller-image-brief-free/references/i18n/de.md",
+        "fr": "docs/downloads/seller-image-brief-free/references/i18n/fr.md",
+        "es": "docs/downloads/seller-image-brief-free/references/i18n/es.md",
+        "pt": "docs/downloads/seller-image-brief-free/references/i18n/pt.md"
+      },
+      "updatedSha256": "20f40f888e1705adb73d091f8a5e6d360575af8b17dc6a175a7c72366d1a519e"
+    },
+    {
+      "name": "seller-image-brief-free",
+      "path": "skills/seller-image-brief-free/SKILL.md",
+      "directory": "skills/seller-image-brief-free",
+      "sourceSha256": "53b6b67b001262680efade6f5b1398b812157423d25816fa0ecd28871449f7fc",
+      "guides": {
+        "zh-CN": "skills/seller-image-brief-free/references/i18n/zh-CN.md",
+        "en": "skills/seller-image-brief-free/references/i18n/en.md",
+        "ja": "skills/seller-image-brief-free/references/i18n/ja.md",
+        "ko": "skills/seller-image-brief-free/references/i18n/ko.md",
+        "de": "skills/seller-image-brief-free/references/i18n/de.md",
+        "fr": "skills/seller-image-brief-free/references/i18n/fr.md",
+        "es": "skills/seller-image-brief-free/references/i18n/es.md",
+        "pt": "skills/seller-image-brief-free/references/i18n/pt.md"
+      },
+      "updatedSha256": "20f40f888e1705adb73d091f8a5e6d360575af8b17dc6a175a7c72366d1a519e"
+    }
+  ],
+  "documents": {
+    "README.de.md": {
+      "sha256": "51aca13c7439660b39e57b79627cd717c215a10c33f90651ddb6633f225b6f85",
+      "size": 3149
+    },
+    "README.en.md": {
+      "sha256": "1d0d919105632fb47c959423993df68a8fc5d200a32d4aa7e3837ea03590ba29",
+      "size": 3206
+    },
+    "README.es.md": {
+      "sha256": "44967e00abce4905233275c612c16b74aca413d7edd638284ecad7bd45365f1a",
+      "size": 3118
+    },
+    "README.fr.md": {
+      "sha256": "ef7af240d7fadda2dd51c60c01c8ec4b8f022c9bbb9394a27e1fd790dfce01f7",
+      "size": 3227
+    },
+    "README.ja.md": {
+      "sha256": "dc6480cbf5f05ab818eb3518268f30f15d893f522706436f9836ad0bedc27efb",
+      "size": 3198
+    },
+    "README.ko.md": {
+      "sha256": "fab3d00928658f42c888921a0b10cd779771a6c6e7ec41974aa9242414ff669a",
+      "size": 3229
+    },
+    "README.md": {
+      "sha256": "dd52c3be57c3079824b347a39098d767875a1f68c630a7ef206db74ed6aa60f9",
+      "size": 7103
+    },
+    "README.pt.md": {
+      "sha256": "facc9f0ba6c6ac0a1bfc9fa54d69d0171a737cbb0c9053518ee13856cae18522",
+      "size": 3110
+    },
+    "README.zh-CN.md": {
+      "sha256": "e1dad49df0e11bb3ae787a451db698a8e646a9f7ec7a0e5cc45f11f3dbde0dec",
+      "size": 2637
+    },
+    "docs/downloads/seller-image-brief-free/SKILL.md": {
+      "sha256": "20f40f888e1705adb73d091f8a5e6d360575af8b17dc6a175a7c72366d1a519e",
+      "size": 5847
+    },
+    "docs/downloads/seller-image-brief-free/references/i18n/de.md": {
+      "sha256": "6585668de6472ab2bca3dbc8f0a51fbbfa2a1ca9c6047faffcf1322802a78a0e",
+      "size": 2993
+    },
+    "docs/downloads/seller-image-brief-free/references/i18n/en.md": {
+      "sha256": "4552be273d8ab2e17ef576874aef27ec087f6ada01749b0bb9517160d823e98c",
+      "size": 3122
+    },
+    "docs/downloads/seller-image-brief-free/references/i18n/es.md": {
+      "sha256": "18e7745b89de4ebf5407dba26773dedb6caa269a1fada11ccd4423fc164c0639",
+      "size": 2990
+    },
+    "docs/downloads/seller-image-brief-free/references/i18n/fr.md": {
+      "sha256": "3c20ca1af902acb75ebf2a58e359512a1eee18a6c3db000a875e5341fdd16095",
+      "size": 3097
+    },
+    "docs/downloads/seller-image-brief-free/references/i18n/ja.md": {
+      "sha256": "04915809b379764936d59033e8aebd963845d49ee1f4f5476f60eefd88f1ea97",
+      "size": 3008
+    },
+    "docs/downloads/seller-image-brief-free/references/i18n/ko.md": {
+      "sha256": "0ed42e8584a3322342b9da0c97d9284739ff21af2ac6f1f95195bc3ec1bad858",
+      "size": 3054
+    },
+    "docs/downloads/seller-image-brief-free/references/i18n/pt.md": {
+      "sha256": "5a29c313f47e8127d8cf0ece284fcb0589e01a1e06f0336d6895bb4157a8ca66",
+      "size": 2989
+    },
+    "docs/downloads/seller-image-brief-free/references/i18n/zh-CN.md": {
+      "sha256": "0ff6093eb6e3c69776f9c44ebeb1f444f4ffe0208b3b4779c0a610a48d01300b",
+      "size": 2447
+    },
+    "skills/seller-image-brief-free/SKILL.md": {
+      "sha256": "20f40f888e1705adb73d091f8a5e6d360575af8b17dc6a175a7c72366d1a519e",
+      "size": 5847
+    },
+    "skills/seller-image-brief-free/references/i18n/de.md": {
+      "sha256": "6585668de6472ab2bca3dbc8f0a51fbbfa2a1ca9c6047faffcf1322802a78a0e",
+      "size": 2993
+    },
+    "skills/seller-image-brief-free/references/i18n/en.md": {
+      "sha256": "4552be273d8ab2e17ef576874aef27ec087f6ada01749b0bb9517160d823e98c",
+      "size": 3122
+    },
+    "skills/seller-image-brief-free/references/i18n/es.md": {
+      "sha256": "18e7745b89de4ebf5407dba26773dedb6caa269a1fada11ccd4423fc164c0639",
+      "size": 2990
+    },
+    "skills/seller-image-brief-free/references/i18n/fr.md": {
+      "sha256": "3c20ca1af902acb75ebf2a58e359512a1eee18a6c3db000a875e5341fdd16095",
+      "size": 3097
+    },
+    "skills/seller-image-brief-free/references/i18n/ja.md": {
+      "sha256": "04915809b379764936d59033e8aebd963845d49ee1f4f5476f60eefd88f1ea97",
+      "size": 3008
+    },
+    "skills/seller-image-brief-free/references/i18n/ko.md": {
+      "sha256": "0ed42e8584a3322342b9da0c97d9284739ff21af2ac6f1f95195bc3ec1bad858",
+      "size": 3054
+    },
+    "skills/seller-image-brief-free/references/i18n/pt.md": {
+      "sha256": "5a29c313f47e8127d8cf0ece284fcb0589e01a1e06f0336d6895bb4157a8ca66",
+      "size": 2989
+    },
+    "skills/seller-image-brief-free/references/i18n/zh-CN.md": {
+      "sha256": "0ff6093eb6e3c69776f9c44ebeb1f444f4ffe0208b3b4779c0a610a48d01300b",
+      "size": 2447
+    }
+  }
+}
